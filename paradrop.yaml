@@ -1,0 +1,12 @@
+command: node index.js
+config:
+  web:
+    port: 3000
+description: my first chute
+name: fall2017-halo06-hello
+source:
+  type: git
+  url: https://github.com/dmeyer1/fall2017-halo06-hello
+type: light
+use: node
+version: 1
